@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class distinct{ 
+class samhitha{ 
   
     final static int NO_OF_CHARS = 256; 
   
